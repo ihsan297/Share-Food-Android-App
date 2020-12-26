@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835681144094",
+    "firebase_url": "https://foodsharing1-51de1.firebaseio.com",
+    "project_id": "foodsharing1-51de1",
+    "storage_bucket": "foodsharing1-51de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835681144094:android:677f3f6838d9511ca00d0f",
+        "android_client_info": {
+          "package_name": "com.example.foodsharing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835681144094-qflet87jsc8iluol6ilblh5vvr4oveb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodsharing1",
+            "certificate_hash": "d8a201b9cee45502a1007645d8df1fe728b45123"
+          }
+        },
+        {
+          "client_id": "835681144094-3i3s3i66bp4elgldca3rq5khpoe4vjqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjVXeN31NHjEwRwGfS3wU821fs-ShXYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835681144094-3i3s3i66bp4elgldca3rq5khpoe4vjqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
